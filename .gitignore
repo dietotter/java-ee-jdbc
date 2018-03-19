@@ -1,0 +1,12 @@
+# Libraries
+lib/
+
+# Compiled
+target/
+
+# IntelliJ Idea
+.idea/
+*.iml
+
+# OSX files
+.DS_Store
